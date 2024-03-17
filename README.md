@@ -34,3 +34,25 @@ In each of these challenges, the ternary operator is used to decide between two 
 4. We will consider the commit history and meaningful commit messages to evaluate your coding process.
 
 Please follow the provided steps and guidelines to complete the Monster Ternary Operator challenge effectively. Your ability to use ternary operators for conditional logic is a valuable skill, and we look forward to reviewing your work.
+
+Monster Ternary Operator
+Overview
+This set of challenges demonstrates the utility of ternary operators for concise conditional logic in JavaScript. Ternary operators offer a compact way to decide between two options based on a condition. However, it's essential to use them judiciously to maintain readability, especially for more complex conditions.
+
+Challenge 1: Flavor Selection
+Given a user's preferred type of Monster Energy drink, print whether they prefer a "Regular" or "Sugar-free" variety. If the preference is not set, default to "Regular".
+
+Challenge 2: Stock Check
+Given the number of Monster Energy cans left in the fridge, print "Time to restock!" if the number is less than 5, or "We're stocked!" if the number is 5 or more.
+
+Challenge 3: Workout Intensity
+Based on the current heart rate, determine if the user should drink a Monster Energy drink to boost their workout. If the heart rate is below 100 bpm, print "Boost needed!", otherwise, print "Energy levels are high!".
+
+Challenge 4: Temperature Suitability
+Determine if Monster Energy drinks are suitable for consumption based on the current temperature. Print "Chilled to perfection!" if the temperature is below or equal to 5°C, or "Needs a cooler!" if above 5°C.
+
+Challenge 5: Late Night Coding Session
+Determine if it's a good idea to have a Monster Energy drink based on the current hour. If it's between 7am and midnight (24-hour format), print "Unleash the beast!", otherwise, print "Better stick to water."
+
+Conclusion
+While ternary operators offer concise syntax for conditional logic, it's crucial to balance brevity with readability. Complex conditions or expressions can make code harder to understand, so use ternaries judiciously and prioritize clarity.
