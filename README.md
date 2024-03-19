@@ -36,8 +36,16 @@ In each of these challenges, the ternary operator is used to decide between two 
 Please follow the provided steps and guidelines to complete the Monster Ternary Operator challenge effectively. Your ability to use ternary operators for conditional logic is a valuable skill, and we look forward to reviewing your work.
 
 Monster Ternary Operator
+
 Overview
 This set of challenges demonstrates the utility of ternary operators for concise conditional logic in JavaScript. Ternary operators offer a compact way to decide between two options based on a condition. However, it's essential to use them judiciously to maintain readability, especially for more complex conditions.
+   
+
+## Setup
+
+- Create a JavaScript file named `monsterTernary.js`.
+- Copy the provided code into the file.
+- Run the code in a Node.js environment, or open the HTML file in a web browser.
 
 Challenge 1: Flavor Selection
 Given a user's preferred type of Monster Energy drink, print whether they prefer a "Regular" or "Sugar-free" variety. If the preference is not set, default to "Regular".
